@@ -20,7 +20,7 @@ const MainPage = () => {
   }}
   />
     </div>
-    <div className="butn">Connect with us</div>
+    <div className="butn cursor">Connect with us</div>
   </div>
   </motion.div>;
 };
