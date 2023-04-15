@@ -458,7 +458,7 @@ function About() {
                 </div>
               </div>
               <div className="sm:w-1/2  mt-20 sm:h-2/3 h-1/2 w-full rounded-3xl border-2 border-slate-300 mapbox" >
-                <Map
+                <Map className="ee"
                   latlng={[82.984146, 25.264544]}
                   marker={[82.984146, 25.264544]}
                   zoom={16}
